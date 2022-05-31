@@ -1,0 +1,12 @@
+
+
+
+Pseudo Class
+
+1. :link = style default pada sebuah link (a yang memiliki href)
+
+2. :hover = style ketika cursor berasa di atas link
+
+3. :active = style ketika sebuah link di-klik
+
+4. :visited = style ketika sebuah link sudah pernah di kunjungi

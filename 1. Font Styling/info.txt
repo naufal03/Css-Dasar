@@ -1,0 +1,15 @@
+
+
+Font Styling
+
+1. font-family = mengatur jenis font yang akan di gunakan
+
+2. font-size = mengatur ukuran font
+
+3. font-weight = mengatur ketebalan font
+
+4. font-variant = mengatur font menjadi small caps
+
+5. font-style = mengatur style dari font
+
+6. line-height = mengatur spasi antar baris

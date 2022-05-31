@@ -1,0 +1,27 @@
+.hello:link{
+	color: brown;
+}
+
+.hello:hover{
+	background-color: red;
+}
+
+.hello:active{
+	background-color: aqua;
+}
+
+.hello:visited{
+	color: pink;
+}
+
+li:nth-child(3n-2) a:hover{
+	color: red;
+}
+
+p:first-of-type{
+	color: rebeccapurple;
+}
+
+p:last-of-type{
+	color: brown;
+}

@@ -1,0 +1,18 @@
+
+
+
+Text Styling
+
+1. color = memberi warna pada tulisan
+
+2. text-align = mengatur format paragraf / teks
+
+3. text-indent = memberi indentasi pada paragraf / teks
+
+4. text-decoration = mengatur dekorasi pada teks
+
+5. text-transform = mengubah jenis huruf menjadi huruf besar,kecil dan kapital
+
+6. letter-spacing = mengatur spasi antar huruf
+
+7. word-spacing = mengatur spasi antar kata
